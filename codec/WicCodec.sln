@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3F32818C-BC6A-4752-B38D-F34E51B0311C}") = "WicCodec", "WicCodec.vcxproj", "{C8D77F9F-6464-44B2-A790-2BCA8580C509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Debug|x64.ActiveCfg = Debug|x64
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Debug|x64.Build.0 = Debug|x64
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Debug|x86.Build.0 = Debug|Win32
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Release|x64.ActiveCfg = Release|x64
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Release|x64.Build.0 = Release|x64
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Release|x86.ActiveCfg = Release|Win32
+		{C8D77F9F-6464-44B2-A790-2BCA8580C509}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="LisaImage.cpp">
+      <Filter>FileFormat</Filter>
+    </ClCompile>
+    <ClCompile Include="StreamReader.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="StreamWriter.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertyStore.cpp">
+      <Filter>CodecInterfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="WicBitmapDecoder.cpp">
+      <Filter>CodecInterfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="WicBitmapEncoder.cpp">
+      <Filter>CodecInterfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="WicFrameDecode.cpp">
+      <Filter>CodecInterfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="WicFrameEncode.cpp">
+      <Filter>CodecInterfaces</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h" />
+    <ClInclude Include="LisaImage.h">
+      <Filter>FileFormat</Filter>
+    </ClInclude>
+    <ClInclude Include="StreamReader.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="StreamWriter.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="uuid.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertyStore.h">
+      <Filter>CodecInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="WicBitmapDecoder.h">
+      <Filter>CodecInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="WicBitmapEncoder.h">
+      <Filter>CodecInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="WicFrameDecode.h">
+      <Filter>CodecInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="WicFrameEncode.h">
+      <Filter>CodecInterfaces</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="WicCodec.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="FileFormat">
+      <UniqueIdentifier>{fe6b124c-3bbf-491e-b440-78dc07263dd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{9bf0ef18-3f7e-4594-a8ac-41e3bccb2f97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CodecInterfaces">
+      <UniqueIdentifier>{63995b57-c2ef-4424-998f-b8bcab3c9dec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
