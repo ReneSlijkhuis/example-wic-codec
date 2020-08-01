@@ -7,7 +7,7 @@ This C++ project contains an example codec for the Lisa image format which was c
 * Write support for the Lisa image format.
 * Support for the Windows Property System.
 
-![example_3](http://www.xs4all.nl/~reneslkh/wic/lisa_wic_codec.png)
+![example_3](http://www.slijkhuis.org/wic/lisa_wic_codec.png)
 
 ## Requirements
 * Microsoft Windows 7 or later.
@@ -34,9 +34,9 @@ The Lisa image format is named to a woman (Elisabeth) and is only created for de
 | **37** | UINT32 (4 bytes) | Offset to the image data from the beginning of the file. |
 
 ## Downloads
-* [Setup-ExampleWicCodec.exe](http://www.xs4all.nl/~reneslkh/wic/Setup-ExampleWicCodec.exe) (installs the example codec)
-* [Example Lisa image 1](http://www.xs4all.nl/~reneslkh/wic/Hello_Kitty.lisa)
-* [Example Lisa image 2](http://www.xs4all.nl/~reneslkh/wic/Donald_Trump.lisa)
+* [Setup-ExampleWicCodec.exe](http://www.slijkhuis.org/wic/Setup-ExampleWicCodec.exe) (installs the example codec)
+* [Example Lisa image 1](http://www.slijkhuis.org/wic/Hello_Kitty.lisa)
+* [Example Lisa image 2](http://www.slijkhuis.org/wic/Donald_Trump.lisa)
 
 ## Other example codecs
 * [FLIF Windows Codec](https://github.com/peirick/FlifWICCodec)
