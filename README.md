@@ -7,7 +7,7 @@ This C++ project contains an example codec for the Lisa image format which was c
 * Write support for the Lisa image format.
 * Support for the Windows Property System.
 
-![example_3](http://83.161.252.243/wic/lisa_wic_codec.png)
+![example_3](http://www.slijkhuis.org/wic/lisa_wic_codec.png)
 
 ## Requirements
 * Microsoft Windows 7 or later.
